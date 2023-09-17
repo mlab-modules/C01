@@ -1,0 +1,17 @@
+description: C01A
+github_branch: C01A
+github_description: C01A
+github_repo: C01
+github_url: https://github.com/mlab-modules/C01
+homepage: false
+images:
+- doc/img/C01A_small.jpg
+- doc/img/C01A_2.jpg
+- doc/img/C01A_1.jpg
+- doc/img/C01A.jpg
+- doc/img/C01A_QRcode.png
+mark: 50
+status: 0
+tags: []
+title: C01
+updated: '2023-09-17T11:43:19.630928+00:00'
